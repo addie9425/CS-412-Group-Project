@@ -5,9 +5,12 @@
 
 ### Directory:
 
-ReadMe.md - has directory information and dataset information.
-Dataset python import.py - imports the data set from source (ucimlrepo) via python
-Project Oultine.txt - General project development information, to be iteratively updated
+-> ReadMe.md - has directory information and dataset information.
+
+-> Dataset python import.py - imports the data set from source (ucimlrepo) via python.
+
+-> Project Oultine.txt - General project development information, to be iteratively updated.
+
 
 ### Dataset Name: Predict Students' Dropout and Academic Success; 
 Link: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
