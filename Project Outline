@@ -1,0 +1,48 @@
+Application: Social Sciences - Education
+
+Topic: Predict Students' Dropout and Academic Success
+Group Members: Aamir Merchant, Benjamin Caulfield, Krenar Banushi, Matias Garcia, and Shiladitya Singh Bhati
+
+Project Presentation Link: https://docs.google.com/presentation/d/1KUEEE-zDcWnTLKLDgHg2u7G6KizslassadAIqPw7CjI/edit#slide=id.g26ef191abc6_0_0
+
+****************************************************************************************************************
+
+Abstract
+1. Find a machine learning application that interests you.
+2. Find an appropriate dataset for this application.
+3. Identify the learning problem: is it classification, clustering or regression?
+4. Apply 2 or 3 techniques you learned in the course to solve the problem. You may also try
+something new. You are free to use code from any machine learning library.
+5. Evaluate each method and compare them. In addition to the accuracy, you may also
+compare their training time, inference speeds, and memory consumption.
+
+*****************************************************************************************************************
+
+Q1. We chose a machine learning application in Social Science, specifically education. 
+
+
+Q2. Dataset: Predict Students' Dropout and Academic Success, Link: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
+
+
+Q3. Learning Problem: Multivariate Classification (Categorical Target Variable)
+
+
+Q4. 
+
+Technique 1...
+
+Technique 2...
+
+Technique 3...
+
+Libraries used:
+
+
+Q5. Method Evaluation
+
+Accuracy...
+training time...
+memory consumption...
+
+Results and conclusions
+
