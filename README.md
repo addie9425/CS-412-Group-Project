@@ -4,7 +4,8 @@
 ## Group Members: Aamir Merchant, Benjamin Caulfield, Krenar Banushi, Matias Garcia, and Shiladitya Singh Bhati
 
 
-### Dataset Name: Predict Students' Dropout and Academic Success; N(students) instances = 4424, Num_features = 36
+### Dataset Name: Predict Students' Dropout and Academic Success; 
+### N(students) instances = 4424, Num_features = 36
 
 #### Link: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
 
