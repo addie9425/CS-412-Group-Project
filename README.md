@@ -11,6 +11,8 @@
 
 -> Project Oultine.txt - General project development information, to be iteratively updated.
 
+-> LR SVM KNN notebook - import data, split train and test, model Logistic Regression, SVM, and KNN.
+
 
 ### Dataset Name: Predict Students' Dropout and Academic Success; 
 Link: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
