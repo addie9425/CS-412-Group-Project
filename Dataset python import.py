@@ -37,7 +37,7 @@ Original file is located at
 
 # Importing...
 
-!pip install ucimlrepo
+# !pip install ucimlrepo
 
 from ucimlrepo import fetch_ucirepo
 
